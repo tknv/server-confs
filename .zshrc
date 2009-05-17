@@ -9,7 +9,7 @@ SAVEHIST=10000
 setopt hist_ignore_dups     # ignore duplication command history list
 setopt share_history        # share command history data
 ## 
-#
+# this below path depend on env.
 #export PATH="/usr/bin:$PATH"
 #export PATH="/usr/local/bin:$PATH"
 #export PATH="/usr/local/apache2/bin:$PATH"
